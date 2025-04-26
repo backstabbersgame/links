@@ -5,7 +5,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url('/images/background.png'),
+  background-image: url('./images/background.png'),
     linear-gradient(178.53deg, #171424 1.25%, #0c032b 85.26%);
   background-size: cover;
   background-position: center;
