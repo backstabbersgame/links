@@ -1,0 +1,27 @@
+[
+  {
+    "label": "Site",
+    "url": "https://solarastudios.com.br/",
+    "icon": "ph ph-planet"
+  },
+  {
+    "label": "Backstabbers",
+    "url": "https://www.catarse.me/backstabbers_latepledge",
+    "icon": "ph ph-sword"
+  },
+  {
+    "label": "Instagram",
+    "url": "https://www.instagram.com/backstabbersgame/",
+    "icon": "ph ph-instagram-logo"
+  },
+  {
+    "label": "E-mail",
+    "url": "copy-email",
+    "icon": "ph ph-envelope"
+  },
+  {
+    "label": "Comunidade Solara",
+    "url": "https://chat.whatsapp.com/HAbqyndzA2aLPQjgCH82hr",
+    "icon": "ph ph-whatsapp-logo"
+  }
+]
