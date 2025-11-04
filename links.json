@@ -1,13 +1,13 @@
 [
   {
     "label": "Site",
-    "url": "https://solarastudios.com.br/",
+    "url": "https://solarastudios.com.br/pt-BR",
     "icon": "ph ph-planet"
   },
   {
-    "label": "Backstabbers",
-    "url": "https://www.catarse.me/backstabbers_latepledge",
-    "icon": "ph ph-sword"
+    "label": "Ordem ao Caos",
+    "url": "https://www.catarse.me/ordem_ao_caos",
+    "icon": "ph ph-paw-print"
   },
   {
     "label": "Instagram",
@@ -23,5 +23,10 @@
     "label": "Comunidade Solara",
     "url": "https://chat.whatsapp.com/HAbqyndzA2aLPQjgCH82hr",
     "icon": "ph ph-whatsapp-logo"
+  },
+  {
+    "label": "YouTube",
+    "url": "https://youtube.com/@solarabg",
+    "icon": "ph ph-youtube-logo"
   }
 ]
