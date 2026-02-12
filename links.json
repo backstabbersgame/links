@@ -5,24 +5,9 @@
     "icon": "ph ph-planet"
   },
   {
-    "label": "Ordem ao Caos",
-    "url": "https://www.catarse.me/ordem_ao_caos",
-    "icon": "ph ph-paw-print"
-  },
-  {
     "label": "Loja Solara Studios",
     "url": "https://solarastudios.lojavirtualnuvem.com.br/",
     "icon": "ph ph-shopping-bag"
-  },
-  {
-    "label": "Instagram",
-    "url": "https://www.instagram.com/solarabg/",
-    "icon": "ph ph-instagram-logo"
-  },
-  {
-    "label": "E-mail",
-    "url": "copy-email",
-    "icon": "ph ph-envelope"
   },
   {
     "label": "Comunidade Solara",
@@ -30,8 +15,23 @@
     "icon": "ph ph-whatsapp-logo"
   },
   {
+    "label": "E-mail",
+    "url": "copy-email",
+    "icon": "ph ph-envelope"
+  },
+  {
+    "label": "Instagram",
+    "url": "https://www.instagram.com/solarabg/",
+    "icon": "ph ph-instagram-logo"
+  },
+  {
     "label": "YouTube",
     "url": "https://youtube.com/@solarabg",
     "icon": "ph ph-youtube-logo"
+  },
+  {
+    "label": "TikTok",
+    "url": "https://www.tiktok.com/@solarabg",
+    "icon": "ph ph-tiktok-logo"
   }
 ]
